@@ -1,0 +1,484 @@
+fileFormatVersion: 2
+guid: 6828142cab7acd74e81aa4e8619e52dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2778525765310809613
+    second: ElfaPrincesa_0
+  - first:
+      213: -5907302280971330557
+    second: ElfaPrincesa_1
+  - first:
+      213: -3603504946275839806
+    second: ElfaPrincesa_2
+  - first:
+      213: -3259348112624737576
+    second: ElfaPrincesa_3
+  - first:
+      213: -7028053905459420260
+    second: ElfaPrincesa_4
+  - first:
+      213: 7823313901193112215
+    second: ElfaPrincesa_5
+  - first:
+      213: 1263564929497986819
+    second: ElfaPrincesa_6
+  - first:
+      213: -107653210271573268
+    second: ElfaPrincesa_7
+  - first:
+      213: 2303127992577228586
+    second: ElfaPrincesa_8
+  - first:
+      213: 251059277773043087
+    second: ElfaPrincesa_9
+  - first:
+      213: 9136658067005251511
+    second: ElfaPrincesa_10
+  - first:
+      213: 4512397835183460999
+    second: ElfaPrincesa_11
+  - first:
+      213: -220137347249378624
+    second: ElfaPrincesa_12
+  - first:
+      213: -4501571934664740754
+    second: ElfaPrincesa_13
+  - first:
+      213: -1232479277169879305
+    second: ElfaPrincesa_14
+  - first:
+      213: 2092539638891748740
+    second: ElfaPrincesa_15
+  - first:
+      213: -7060710565949470959
+    second: ElfaPrincesa_16
+  - first:
+      213: 4594534325697248457
+    second: ElfaPrincesa_17
+  - first:
+      213: -3861676576264706126
+    second: ElfaPrincesa_18
+  - first:
+      213: -4479946190829540930
+    second: ElfaPrincesa_19
+  - first:
+      213: 1450581067493370322
+    second: ElfaPrincesa_20
+  - first:
+      213: -6918056467503309043
+    second: ElfaPrincesa_21
+  - first:
+      213: -8207750742367268334
+    second: ElfaPrincesa_22
+  - first:
+      213: 4562320181309893252
+    second: ElfaPrincesa_23
+  - first:
+      213: -2788128735023859702
+    second: ElfaPrincesa_24
+  - first:
+      213: 1947337916237624135
+    second: ElfaPrincesa_25
+  - first:
+      213: 6688417369039929142
+    second: ElfaPrincesa_26
+  - first:
+      213: -4244672925103940421
+    second: ElfaPrincesa_27
+  - first:
+      213: -7108494747070918282
+    second: ElfaPrincesa_28
+  - first:
+      213: 2068514340173487439
+    second: ElfaPrincesa_29
+  - first:
+      213: -5464878374904499704
+    second: ElfaPrincesa_30
+  - first:
+      213: 4516801437616894453
+    second: ElfaPrincesa_31
+  - first:
+      213: -4170928745626872964
+    second: ElfaPrincesa_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 350
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ElfaPrincesa_0
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 138
+        width: 255
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d060f98567e4f8620800000000000000
+      internalID: 2778525765310809613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfaPrincesa_1
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 51
+        width: 258
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c59d9afdb050ea0800000000000000
+      internalID: -5907302280971330557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfaPrincesa_2
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 53
+        width: 257
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c09dd2f757cdfdc0800000000000000
+      internalID: -3603504946275839806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfaPrincesa_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 525
+        width: 228
+        height: 454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2a9ab092874c2d0800000000000000
+      internalID: -3259348112624737576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfaPrincesa_14
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 519
+        width: 262
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6524b90aa55eee0800000000000000
+      internalID: -1232479277169879305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfaPrincesa_20
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 530
+        width: 254
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d969dd9bcf712410800000000000000
+      internalID: 1450581067493370322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfaPrincesa_25
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 523
+        width: 239
+        height: 444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7433ef27485560b10800000000000000
+      internalID: 1947337916237624135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfaPrincesa_28
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 527
+        width: 279
+        height: 444
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6719b11a0bd895d90800000000000000
+      internalID: -7108494747070918282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfaPrincesa_29
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 47
+        width: 273
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d97da35d6d4bc10800000000000000
+      internalID: 2068514340173487439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElfaPrincesa_30
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 91
+        width: 264
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8027a1b721ad824b0800000000000000
+      internalID: -5464878374904499704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d12c65d3c485dc04d9b5f1305ef8f2d2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ElfaPrincesa_0: 2778525765310809613
+      ElfaPrincesa_1: -5907302280971330557
+      ElfaPrincesa_10: 9136658067005251511
+      ElfaPrincesa_11: 4512397835183460999
+      ElfaPrincesa_12: -220137347249378624
+      ElfaPrincesa_13: -4501571934664740754
+      ElfaPrincesa_14: -1232479277169879305
+      ElfaPrincesa_15: 2092539638891748740
+      ElfaPrincesa_16: -7060710565949470959
+      ElfaPrincesa_17: 4594534325697248457
+      ElfaPrincesa_18: -3861676576264706126
+      ElfaPrincesa_19: -4479946190829540930
+      ElfaPrincesa_2: -3603504946275839806
+      ElfaPrincesa_20: 1450581067493370322
+      ElfaPrincesa_21: -6918056467503309043
+      ElfaPrincesa_22: -8207750742367268334
+      ElfaPrincesa_23: 4562320181309893252
+      ElfaPrincesa_24: -2788128735023859702
+      ElfaPrincesa_25: 1947337916237624135
+      ElfaPrincesa_26: 6688417369039929142
+      ElfaPrincesa_27: -4244672925103940421
+      ElfaPrincesa_28: -7108494747070918282
+      ElfaPrincesa_29: 2068514340173487439
+      ElfaPrincesa_3: -3259348112624737576
+      ElfaPrincesa_30: -5464878374904499704
+      ElfaPrincesa_31: 4516801437616894453
+      ElfaPrincesa_32: -4170928745626872964
+      ElfaPrincesa_4: -7028053905459420260
+      ElfaPrincesa_5: 7823313901193112215
+      ElfaPrincesa_6: 1263564929497986819
+      ElfaPrincesa_7: -107653210271573268
+      ElfaPrincesa_8: 2303127992577228586
+      ElfaPrincesa_9: 251059277773043087
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

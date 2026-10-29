@@ -1,0 +1,658 @@
+fileFormatVersion: 2
+guid: 9dc42cc2d1ffd5941ab75e0e4628abb9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7458345540067314557
+    second: PJ1_0
+  - first:
+      213: -1752693520349250111
+    second: PJ1_1
+  - first:
+      213: 8066156633664511169
+    second: PJ1_2
+  - first:
+      213: 3852265264712607562
+    second: PJ1_3
+  - first:
+      213: -2770044534232035705
+    second: PJ1_4
+  - first:
+      213: 6321304881163374936
+    second: PJ1_5
+  - first:
+      213: 1405555705391062038
+    second: PJ1_6
+  - first:
+      213: -9128275137393422634
+    second: PJ1_7
+  - first:
+      213: -1326682625539916838
+    second: PJ1_8
+  - first:
+      213: -8599839649420177028
+    second: PJ1_9
+  - first:
+      213: 6434628137491679597
+    second: PJ1_10
+  - first:
+      213: 7468793904119088412
+    second: PJ1_11
+  - first:
+      213: -4552523890263779801
+    second: PJ1_12
+  - first:
+      213: 1951110243356836870
+    second: PJ1_13
+  - first:
+      213: 7307810287823999420
+    second: PJ1_14
+  - first:
+      213: -849743462682773832
+    second: PJ1_15
+  - first:
+      213: 1058945383345394312
+    second: PJ1_16
+  - first:
+      213: 2675728710550190310
+    second: PJ1_17
+  - first:
+      213: 2126704067905225116
+    second: PJ1_18
+  - first:
+      213: -5757231151822770302
+    second: PJ1_19
+  - first:
+      213: 439913840517773939
+    second: PJ1_20
+  - first:
+      213: 6959927069525652936
+    second: PJ1_21
+  - first:
+      213: 8714025915493801077
+    second: PJ1_22
+  - first:
+      213: -6780626499985558023
+    second: PJ1_23
+  - first:
+      213: 4678583996990893145
+    second: PJ1_24
+  - first:
+      213: -2039717387622246490
+    second: PJ1_25
+  - first:
+      213: 424908399859532114
+    second: PJ1_26
+  - first:
+      213: 1146107700154906990
+    second: PJ1_27
+  - first:
+      213: -5404679926843306228
+    second: PJ1_28
+  - first:
+      213: 6852795964902676153
+    second: PJ1_29
+  - first:
+      213: 9050716441568018402
+    second: PJ1_30
+  - first:
+      213: -2620682490995536835
+    second: PJ1_31
+  - first:
+      213: 8609771676702184329
+    second: PJ1_32
+  - first:
+      213: 41008737976030822
+    second: PJ1_33
+  - first:
+      213: -7973997822559799151
+    second: PJ1_34
+  - first:
+      213: -2785173717042756
+    second: PJ1_35
+  - first:
+      213: -5476731854217020363
+    second: PJ1_36
+  - first:
+      213: 3049635516745729507
+    second: PJ1_37
+  - first:
+      213: 4643187034516746249
+    second: PJ1_38
+  - first:
+      213: 4012561491746032210
+    second: PJ1_39
+  - first:
+      213: -3203962146173143015
+    second: PJ1_40
+  - first:
+      213: 3077926176672392674
+    second: PJ1_41
+  - first:
+      213: -4359092077697325820
+    second: PJ1_42
+  - first:
+      213: 4324111492659523410
+    second: PJ1_43
+  - first:
+      213: 8719245852539804797
+    second: PJ1_44
+  - first:
+      213: 763003977138348259
+    second: PJ1_45
+  - first:
+      213: 784048319925694532
+    second: PJ1_46
+  - first:
+      213: -6213640385301926538
+    second: PJ1_47
+  - first:
+      213: -8662325599669566858
+    second: PJ1_48
+  - first:
+      213: -8797080681654369823
+    second: PJ1_49
+  - first:
+      213: -2178878485780039141
+    second: PJ1_50
+  - first:
+      213: -8707668904276510505
+    second: PJ1_51
+  - first:
+      213: 5845231390769235884
+    second: PJ1_52
+  - first:
+      213: -1305934257897641224
+    second: PJ1_53
+  - first:
+      213: 8839631731506461045
+    second: PJ1_54
+  - first:
+      213: 2014501985690433668
+    second: PJ1_55
+  - first:
+      213: -3026977931711065460
+    second: PJ1_56
+  - first:
+      213: -3397768769528271550
+    second: PJ1_57
+  - first:
+      213: 8393725437303712879
+    second: PJ1_58
+  - first:
+      213: -1143533838938996516
+    second: PJ1_59
+  - first:
+      213: -5752687125568128177
+    second: PJ1_60
+  - first:
+      213: -2213609433117454076
+    second: PJ1_61
+  - first:
+      213: -3195626616545123061
+    second: PJ1_62
+  - first:
+      213: 3735184478325299576
+    second: PJ1_63
+  - first:
+      213: 1996922533949150917
+    second: PJ1_64
+  - first:
+      213: 5648421553520227633
+    second: PJ1_65
+  - first:
+      213: -8479059506970777477
+    second: PJ1_66
+  - first:
+      213: -345331972324968911
+    second: PJ1_67
+  - first:
+      213: -5613297881648812460
+    second: PJ1_68
+  - first:
+      213: 5973713621042562436
+    second: PJ1_69
+  - first:
+      213: 4139633243744730840
+    second: PJ1_70
+  - first:
+      213: -6127138178384119701
+    second: PJ1_71
+  - first:
+      213: 8635514289219703187
+    second: PJ1_72
+  - first:
+      213: -5252417955098342364
+    second: PJ1_73
+  - first:
+      213: 1468296287803086616
+    second: PJ1_74
+  - first:
+      213: 445674837941496236
+    second: PJ1_75
+  - first:
+      213: 3777229971447775136
+    second: PJ1_76
+  - first:
+      213: -8333312741192632925
+    second: PJ1_77
+  - first:
+      213: 2388762795075593427
+    second: PJ1_78
+  - first:
+      213: 7747653041307743240
+    second: PJ1_79
+  - first:
+      213: 2127161916632990552
+    second: PJ1_80
+  - first:
+      213: 7854750231812797092
+    second: PJ1_81
+  - first:
+      213: 5316795005099042727
+    second: PJ1_82
+  - first:
+      213: 1402894987673274077
+    second: PJ1_83
+  - first:
+      213: 6690487930597755292
+    second: PJ1_84
+  - first:
+      213: 5781097027379147058
+    second: PJ1_85
+  - first:
+      213: 1761428690886577967
+    second: PJ1_86
+  - first:
+      213: 8965931756278285045
+    second: PJ1_87
+  - first:
+      213: 2009974140902616213
+    second: PJ1_88
+  - first:
+      213: 4525653068478200051
+    second: PJ1_89
+  - first:
+      213: 5931641938405809278
+    second: PJ1_90
+  - first:
+      213: 6242284286855370488
+    second: PJ1_91
+  - first:
+      213: -1466679854421465015
+    second: PJ1_92
+  - first:
+      213: -7268968027809034666
+    second: PJ1_93
+  - first:
+      213: 6091623469486656671
+    second: PJ1_94
+  - first:
+      213: -4451912914782364752
+    second: PJ1_95
+  - first:
+      213: -2985656968445415097
+    second: PJ1_96
+  - first:
+      213: 4078529105422051430
+    second: PJ1_97
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PJ1_0
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 431
+        width: 272
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bc4dfa0cd518760800000000000000
+      internalID: 7458345540067314557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PJ1_1
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 430
+        width: 311
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd3477878e2da7e0800000000000000
+      internalID: -1752693520349250111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PJ1_2
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 417
+        width: 349
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccdb34d8beb0ff60800000000000000
+      internalID: 8066156633664511169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PJ1_3
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 428
+        width: 303
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa5837c720ef1045872bbaa3d612f48
+      internalID: 3852265264712607562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PJ1_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 433
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4d25b655c7e314480fee1b433464d7
+      internalID: -2770044534232035705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PJ1_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 41
+        width: 330
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e491dd3aee464478cc188dc758cd70
+      internalID: 6321304881163374936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PJ1_6
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 64
+        width: 268
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097ca3e4d4195cb4a95e8ebdef0ec951
+      internalID: 1405555705391062038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PJ1_7
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 40
+        width: 270
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395c0184497e9e04e84c9fc07565d412
+      internalID: -9128275137393422634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PJ1_8
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 42
+        width: 287
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621ee3b7e80fde440a3f58cfb9dccaf0
+      internalID: -1964231973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PJ1_9
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 41
+        width: 283
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f04c1589999cea438893c1919d262c5
+      internalID: -891275737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 124c566d7d0cfa34eaa940cf098fdc10
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":500.0,"y":500.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      PJ1_0: 7458345540067314557
+      PJ1_1: -1752693520349250111
+      PJ1_2: 8066156633664511169
+      PJ1_3: 3852265264712607562
+      PJ1_4: -2770044534232035705
+      PJ1_5: 6321304881163374936
+      PJ1_6: 1405555705391062038
+      PJ1_7: -9128275137393422634
+      PJ1_8: -1964231973
+      PJ1_9: -891275737
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

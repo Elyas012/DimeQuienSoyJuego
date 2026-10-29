@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: ed08a508df3c97144b69aa2c7c7dba1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4905255297446545448
+    second: MounstroCaminar_0
+  - first:
+      213: -4748921727150972324
+    second: MounstroCaminar_1
+  - first:
+      213: 2958376254923151674
+    second: MounstroCaminar_2
+  - first:
+      213: 7770679464368548944
+    second: MounstroCaminar_3
+  - first:
+      213: -6917791419453827511
+    second: MounstroCaminar_4
+  - first:
+      213: -1175409695833669836
+    second: MounstroCaminar_5
+  - first:
+      213: -5048916764907522640
+    second: MounstroCaminar_6
+  - first:
+      213: 1355714115377584912
+    second: MounstroCaminar_7
+  - first:
+      213: 1947808832048090982
+    second: MounstroCaminar_8
+  - first:
+      213: 8915727510282434693
+    second: MounstroCaminar_9
+  - first:
+      213: 4965610185034694801
+    second: MounstroCaminar_10
+  - first:
+      213: -8603413497997863251
+    second: MounstroCaminar_11
+  - first:
+      213: -7818176994190634431
+    second: MounstroCaminar_12
+  - first:
+      213: -3681701767966392147
+    second: MounstroCaminar_13
+  - first:
+      213: -1913053861560807694
+    second: MounstroCaminar_14
+  - first:
+      213: -5947749896926324063
+    second: MounstroCaminar_15
+  - first:
+      213: -8553943227757049691
+    second: MounstroCaminar_16
+  - first:
+      213: -4288037604120888295
+    second: MounstroCaminar_17
+  - first:
+      213: -5515970104069375956
+    second: MounstroCaminar_18
+  - first:
+      213: -5682332724645182847
+    second: MounstroCaminar_19
+  - first:
+      213: 3342042626792656044
+    second: MounstroCaminar_20
+  - first:
+      213: 3831246472463718082
+    second: MounstroCaminar_21
+  - first:
+      213: 5264317655249851221
+    second: MounstroCaminar_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MounstroCaminar_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 401
+        width: 443
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7781fcb480debb0800000000000000
+      internalID: -4905255297446545448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MounstroCaminar_1
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 395
+        width: 429
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52280b99d0781eb0800000000000000
+      internalID: -4748921727150972324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MounstroCaminar_2
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 382
+        width: 434
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417ad3337c14ebf46a7fc228f7db6394
+      internalID: 2958376254923151674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MounstroCaminar_3
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 397
+        width: 453
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67a775b6756bc24bbb6ba59d6811ba5
+      internalID: 7770679464368548944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MounstroCaminar_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 62
+        width: 558
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733ba7c9967d6de4d88336bf585cf747
+      internalID: -6917791419453827511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MounstroCaminar_5
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 57
+        width: 482
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4051db301b1eb9a42b186a7a41e9751f
+      internalID: -1175409695833669836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MounstroCaminar_6
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 47
+        width: 486
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8b87ee4a992fa488804e89b74bba7a
+      internalID: -5048916764907522640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a9210282f7c5bc04c874101f665c8f6b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":600.0,"y":600.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      MounstroCaminar_0: -4905255297446545448
+      MounstroCaminar_1: -4748921727150972324
+      MounstroCaminar_2: 2958376254923151674
+      MounstroCaminar_3: 7770679464368548944
+      MounstroCaminar_4: -6917791419453827511
+      MounstroCaminar_5: -1175409695833669836
+      MounstroCaminar_6: -5048916764907522640
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

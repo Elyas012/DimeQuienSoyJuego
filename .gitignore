@@ -1,0 +1,89 @@
+# ==========================================
+# Unity Project .gitignore
+# Optimizado para Unity 6 / URP 2D
+# ==========================================
+
+# --- Carpetas temporales y de caché generadas por Unity (Muy pesadas) ---
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# --- Archivos generados de TextMesh Pro ---
+/[Aa]ssets/[Tt]ext[Mm]esh [Pp]ro/Resources/TMP_FontAssetSoftMask.shader
+/[Aa]ssets/[Tt]ext[Mm]esh [Pp]ro/Resources/TMP_SubMeshUI.shader
+
+# --- Metadatos que NO deben guardarse si el archivo asociado se ignora ---
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# --- Reportes de fallos y logs ---
+sysinfo.txt
+*.stackdump
+
+# --- Compilaciones y empaquetados ---
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# --- Soluciones y proyectos autogenerados por IDEs (Visual Studio / Rider / VS Code) ---
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Carpetas de configuración de IDEs
+.vs/
+.idea/
+.vscode/
+
+# --- Entorno Virtual de Python y caché (para scripts auxiliares en /tools) ---
+.venv/
+venv/
+ENV/
+env/
+.qa_informe/
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# --- Archivos de Sistema Operativo (Windows / Mac) ---
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# ==========================================
+# REGLAS CRÍTICAS DE CONSERVACIÓN
+# (Nunca ignorar metadatos ni configuración esencial)
+# ==========================================
+!/[Aa]ssets/**/*.meta
+!/[Pp]ackages/manifest.json
+!/[Pp]ackages/packages-lock.json
+!/[Pp]roject[Ss]ettings/
