@@ -1,15 +1,50 @@
+using System.Collections;
 using UnityEngine;
 
 public class RescatePrincesa : MonoBehaviour
 {
+    [Header("Estado de la Llave")]
+    public bool tieneLlave = false;
+
+    [Header("Aviso de falta de llave (Opcional)")]
+    public GameObject avisoFaltaLlave; // Texto o letrero tipo '¡Necesitas la llave!'
+
     private bool rescatada = false;
+
+    void Start()
+    {
+        if (avisoFaltaLlave != null)
+        {
+            avisoFaltaLlave.SetActive(false);
+        }
+    }
+
+    public void ObtenerLlave()
+    {
+        tieneLlave = true;
+    }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (!rescatada && (collision.CompareTag("Player") || collision.gameObject.name.Contains("PJ1_4")))
+        if (rescatada) return;
+
+        if (collision.CompareTag("Player") || collision.gameObject.name.Contains("PJ1_4"))
         {
+            // Si NO tiene la llave, no se activa la victoria
+            if (!tieneLlave)
+            {
+                Debug.LogWarning("<color=orange>[Princesa] ¡El cristal está sellado! Necesitas la llave del inicio.</color>");
+                if (avisoFaltaLlave != null)
+                {
+                    StopAllCoroutines();
+                    StartCoroutine(MostrarAvisoTemporal());
+                }
+                return;
+            }
+
+            // SI TIENE LA LLAVE -> Proceder con la victoria
             rescatada = true;
-            Debug.Log("<color=yellow>¡Princesa rescatada! Activando Victoria...</color>");
+            Debug.Log("<color=yellow>¡Princesa liberada con la llave! Activando Victoria...</color>");
 
             // 1. Detener al jugador
             MonoBehaviour controller = collision.GetComponent("ControladorJugador") as MonoBehaviour;
@@ -18,7 +53,11 @@ public class RescatePrincesa : MonoBehaviour
             Rigidbody2D rb = collision.GetComponent<Rigidbody2D>();
             if (rb != null) rb.linearVelocity = Vector2.zero;
 
-            // 2. Activar directamente el VictoryPanel en el Canvas
+            // 2. Liberar cursor
+            Cursor.visible = true;
+            Cursor.lockState = CursorLockMode.None;
+
+            // 3. Activar el VictoryPanel directamente
             GameObject canvas = GameObject.Find("Canvas");
             if (canvas != null)
             {
@@ -37,5 +76,12 @@ public class RescatePrincesa : MonoBehaviour
                 BattleManager.instance.IniciarVictoriaJefe();
             }
         }
+    }
+
+    IEnumerator MostrarAvisoTemporal()
+    {
+        avisoFaltaLlave.SetActive(true);
+        yield return new WaitForSeconds(2.0f);
+        avisoFaltaLlave.SetActive(false);
     }
 }
